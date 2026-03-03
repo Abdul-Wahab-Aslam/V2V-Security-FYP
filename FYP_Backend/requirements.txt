@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+langgraph
+langchain_google_genai
+python-dotenv
+joblib
+shap
+pandas
+numpy
+websockets
