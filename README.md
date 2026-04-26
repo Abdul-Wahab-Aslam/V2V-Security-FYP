@@ -61,3 +61,26 @@ XAI Dashboard: 100% Done
 Latency Testing: 100% Done
 
 Note: This project was developed as a Final Year Project (FYP) at Bahria University (BULC).
+
+----------------------------------------------------
+# Aero-Sentinel XAI 🛰️
+### Secure V2V Communication using Explainable AI
+
+**Aero-Sentinel XAI** ek advanced security framework hai jo Vehicular Networks (V2V) ko spoofing aur sensor manipulation attacks se bachata hai. Is mein humne YOLOv8 ko vision ke liye aur XGBoost ko telemetry data scan karne ke liye use kiya hai.
+
+## ✨ Features
+* **Hybrid Detection:** Computer Vision (YOLOv8) aur Machine Learning (XGBoost) ka combo.
+* **Explainable AI (XAI):** SHAP terminal ke zariye system batata hai ke usne "Attack" kyun detect kiya.
+* **Real-time Dashboard:** Live spatial radar aur altitude tracking.
+* **Auto-Response:** Crash detection pe foran "Auto-Brake" signal generate karta hai.
+
+## 🛠️ Tech Stack
+* **Frontend:** React.js, Tailwind CSS
+* **Backend:** Python (Flask/FastAPI)
+* **AI Models:** YOLOv8, XGBoost, Isolation Forest
+* **XAI:** SHAP (SHapley Additive exPlanations)
+
+## 🚀 Setup & Installation
+1. Clone the repo:
+   ```bash
+   git clone [https://github.com/Abdul-Wahab-Aslam/V2V-Security-FYP.git](https://github.com/Abdul-Wahab-Aslam/V2V-Security-FYP.git)
